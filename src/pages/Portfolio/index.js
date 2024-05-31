@@ -107,7 +107,7 @@ function Portfolio() {
                 </a>
 
                 <a
-                    href="#"
+                    href="https://github.com/joaomelo90/dev_house"
                     class="bg-zinc-200 p-3 rounded-lg min-h-[400px] relative flex flex-col hover:shadow-xl duration-300"
                 >
                     <div>
