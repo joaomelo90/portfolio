@@ -29,4 +29,4 @@ Este é o portfólio pessoal de João Melo, desenvolvido para apresentar projeto
 **João Melo**
 - [LinkedIn](https://www.linkedin.com/in/joao-paulo-moreira-melo/)
 - [GitHub](https://github.com/joaomelo90)
-- [Portfólio](http://seu-portfolio.com)
+- [Portfólio](https://portfolio-bice-gamma-38.vercel.app/)
