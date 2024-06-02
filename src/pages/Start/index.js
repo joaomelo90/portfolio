@@ -25,7 +25,7 @@ function Start(){
         </div>
         <div className=" flex items-center justify-center flex-col">
             <h1 className=" text-white py-4 text-3xl font-bold tracking-[0.80rem] ">João Melo</h1>
-            <Animated>Front-end developer</Animated>
+            <Animated>Front-end developer.</Animated>
         </div>
 
         <div className=" w-60 py-4 flex gap-4 items-center justify-center">

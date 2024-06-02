@@ -50,7 +50,7 @@ function Contacts() {
 
         <form className=" w-[90%] sm:max-w-2xl sm:w-full flex flex-col" onSubmit={sendEmail}>
           <input
-            className=" mb-3 h-9  rounded border py-2"
+            className=" mb-3 h-9 p-2  rounded border py-2"
             type="text"
             placeholder="Digite seu nome"
             onChange={(e) => setName(e.target.value)}
@@ -58,7 +58,7 @@ function Contacts() {
           />
 
           <input
-            className=" mb-3 h-9 rounded border py-2"
+            className=" mb-3 h-9 p-2 rounded border py-2"
             type="text"
             placeholder="Digite seu email"
             onChange={(e) => setEmail(e.target.value)}

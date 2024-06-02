@@ -84,7 +84,7 @@ function Main() {
 
         <main className="  w-full flex flex-col pb-4">
 
-          <div id="menu" className={`absolute z-50 ml-48 ${menuOpen ? 'flex' : 'hidden'} flex-col  px-3 py-2 bg-slate-200 shadow-xl`}>
+          <div id="menu" className={`absolute z-50 ${menuOpen ? 'flex' : 'hidden'} flex-col px-3 py-2  bg-marinho text-white shadow-xl`}>
 
             <button onClick={closeMenu} className=" text-3xl text-bold mt-4">X</button>
             <nav className=" flex flex-col mt-8 gap-5 w-full ">
@@ -125,6 +125,10 @@ function Main() {
 
           <header className="sm:hidden bg-marinho w-full py-5 px-3 flex flex-row items-center justify-between fixed">
 
+          <button id="btn-open" onClick={closeMenu} className=" flex justify-center ">
+              <FcMenu className=" w-7 h-7 " />
+            </button>
+
             <div >
               <h1 className=" text-white text-xs font-bold whitespace-nowrap">Dev João Melo</h1>
 
@@ -144,9 +148,7 @@ function Main() {
               </a>
             </div>
 
-            <button id="btn-open" onClick={closeMenu} className=" flex items-center justify-center ">
-              <FcMenu className=" w-7 h-7 " />
-            </button>
+      
           </header>
           
         </main>
