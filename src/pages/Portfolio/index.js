@@ -123,7 +123,7 @@ function Portfolio() {
                             </div>
                             <img
                                 src={House}
-                                alt="barbearia_gui_corts"
+                                alt="devhouse"
                                 class="rounded-lg w-full h-64 object-cover group-hover:scale-110 duration-300 " />
                         </div>
 
@@ -165,7 +165,7 @@ function Portfolio() {
                             </div>
                             <img
                                 src={Uber}
-                                alt="barbearia_gui_corts"
+                                alt="uber"
                                 class="rounded-lg w-full h-64 object-cover group-hover:scale-110 duration-300 " />
                         </div>
 
@@ -189,7 +189,7 @@ function Portfolio() {
                 </a>
 
                 <a
-                    href="https://github.com/joaomelo90/mack_car"
+                    href="https://novo-mack-car.vercel.app/"
                     class="bg-zinc-200 p-3 rounded-lg min-h-[400px] relative flex flex-col hover:shadow-xl duration-300"
                 >
                     <div>
@@ -205,7 +205,7 @@ function Portfolio() {
                             </div>
                             <img
                                 src={Mackcar}
-                                alt="barbearia_gui_corts"
+                                alt="mackcar"
                                 class="rounded-lg w-full h-64 object-cover group-hover:scale-110 duration-300 " />
                         </div>
 

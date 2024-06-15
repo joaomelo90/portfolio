@@ -5,7 +5,7 @@ import Main from "../main"
 
 function About() {
     return (
-        <div className=" w-screen h-screen bg-marinho overflow-y-auto flex flex-col sm:overflow-x-hidden">
+        <div className=" w-screen h-screen bg-azulEscuro overflow-y-auto flex flex-col sm:overflow-x-hidden">
 
             <Main />
 
